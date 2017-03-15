@@ -1,14 +1,14 @@
-<!DOCTYPE <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
     <head>
-        <title>PHP</title>
-        <meta charset="utf-8";>
+        
     </head>
     <body>
-        <p>
-            <?php 
-            echo "Hello World;"
-            ?>
-        </p>
+          <?php for($i = 0; $i<=10;$i++){
+            echo "<p>hello world</p> \n";
+        }
+        ?>
+         
+        
     </body>
 </html>
